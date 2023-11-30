@@ -40,7 +40,11 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 | Konum   | İsim      | Kategoriler | Priz                                |   WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Notlar |
 |---------|-----------|-------------|-------------------------------------|----------|-----------|------------------|------------------|------------------|-------|
-| Bağlıca | CoffeeLog | -           | Çalışma salonunda her masada mevcut |  Mevcut  | 50 Mbps   |      3/10        | 09:00 - 23:00    | @coffeelogtr     |   Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir     |
+| Bağlıca | CoffeeLog | -           | Çalışma salonunda her masada mevcut |  Mevcut  | 50 Mbps   |      3/10        | 09:00 - 23:00    | @coffeelogtr     |   Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir      
+| Sincan  | Yavuz Sultan|           | Her masada 4 adet kişi başı 2 adet  | Mevcut    | 0-10 Mbps |       2/10       | 08.30 - 00.00    |      -          |  Saat başı ücretsiz çay ve pazar günleri hariç         |         | Selim       |                                                                                                                                            18.00 da  ücretsiz çorba dağıtımı var 
+|         | Kütüphanesi | 
+               
+
 
 
 ## 📚 Bursa 
